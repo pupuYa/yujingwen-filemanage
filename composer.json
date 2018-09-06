@@ -1,0 +1,7 @@
+{
+    "name": "jd/file-upload-download",
+    "description": "manage file",
+    "type": "composer-plugin",
+    "minimum-stability": "dev",
+    "require": {}
+}
